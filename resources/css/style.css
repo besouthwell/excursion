@@ -2,12 +2,12 @@ body {
   background-color: black;
   color: white;
   text-align: center;
-  font-family: Helvetica, sans-serif;
+  font-family: Verdana, sans-serif;
 }
 
 p {
-  color: gray;
-  font-size: 20px;
+  color: Gray;
+  font-size: 21px;
 }
 
 .link {
@@ -20,7 +20,8 @@ h1 {
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 42px;
+  font-weight: 300;
 }
 
 .footer {

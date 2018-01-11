@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  color: gray;
+  font-size: 20px;
+}
+
+.link {
+  color: aquamarine;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+.footer {
+  text-align: right;
+}
